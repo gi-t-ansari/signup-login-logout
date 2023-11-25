@@ -1,0 +1,34 @@
+.user {
+    display: flex;
+    align-items: center;
+}
+
+.user span {
+    font-size: 18px;
+    margin-left: 3px;
+    font-weight: 600;
+}
+
+#logout-button {
+    padding: 5px;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+    background-color: #67e8f9;
+    border: 2px solid #06b6d4;
+    color: #334155;
+    border-radius: 5px;
+    margin: 0px 10px;
+}
+
+#logout-button:hover {
+    cursor: pointer;
+    background-color: #06b6d4;
+    color: #fff;
+}
+
+.home-body p {
+    font-size: 20px;
+    margin: -10px 0px 20px 0px;
+    opacity: 0.9;
+}

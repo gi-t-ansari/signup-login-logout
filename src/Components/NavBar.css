@@ -1,0 +1,28 @@
+.navbar-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 20px;
+    box-shadow: 2.5px 2.5px 10px #cbd5e1;
+  }
+  
+  .logo-container {
+    /* width: 50px;
+    overflow: hidden;
+    border-radius: 50%; */
+    font-size: 20px;
+    color: #06b6d4;
+    font-weight: 700;
+  }
+  
+  .logo {
+    width: 100%;
+    scale: 1.7;
+  }
+
+  .contact-info {
+    color: #06b6d4;
+    font-size: 18px;
+    font-weight: 600;
+    cursor: pointer;
+  }
