@@ -1,0 +1,16 @@
+.container select {
+    margin: 20px 10PX;
+    padding: 10PX;
+    font-size: 20PX;
+    border: none;
+    border-radius: 7px;
+    cursor: pointer;
+    -webkit-appearance: none;
+    width: 250px;
+}
+
+.container p {
+    font-size: 20px;
+    font-weight: 600;
+    opacity: 1;
+}

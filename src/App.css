@@ -1,0 +1,22 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  background-color: #a5f3fc;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.App {
+  text-align: center;
+  font-family: sans-serif;
+}
+
+.App > h1 {
+  font-size: 35px;
+  margin-bottom: 0px;
+}
+
+.App p {
+  margin: none;
+  font-size: 20px;
+  opacity: 0.8;
+}
