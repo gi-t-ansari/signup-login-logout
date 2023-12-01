@@ -9,7 +9,8 @@ function Dashboard() {
     let navigate = useNavigate();
 
     const logOut = () => {
-      navigate("/")
+        localstorage.clear()
+        navigate("/")
     }
 
 
